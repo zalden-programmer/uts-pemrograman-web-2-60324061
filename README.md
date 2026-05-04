@@ -1,7 +1,7 @@
 # uts-pemrograman-web-2-60324061
 # Sistem Manajemen Kategori Buku Perpustakaan
-Nama: Meiffio Hasanain Mayzaldin
-NIM: 60324061
+*Nama: Meiffio Hasanain Mayzaldin*
+*(60324061)*
 
 ## Deskripsi Aplikasi
 Aplikasi web berbasis PHP untuk mengelola kategori buku 
@@ -22,29 +22,22 @@ Pastikan sudah terinstall:
 
 ### Langkah Instalasi
 1. **Clone atau download repository ini**
-2. **Copy folder ke htdocs XAMPP**
-   contoh: C:\xampp\htdocs\uts_perpustakaan_60324061
-   3. **Import database**
+   https://github.com/zalden-programmer/uts-pemrograman-web-2-60324061
+3. **Copy folder ke htdocs XAMPP**
+      contoh: C:\xampp\htdocs\uts_perpustakaan_60324061
+4. **Import database**
    - Buka phpMyAdmin di browser: `localhost/phpmyadmin`
    - Klik **"New"** untuk membuat database baru
    - Beri nama: `uts_perpustakaan_60324061`
    - Klik tab **"Import"**
    - Pilih file `database/uts_perpustakaan_60324061.sql`
    - Klik **"Go"**
-4. **Jalankan XAMPP**
+5. **Jalankan XAMPP**
    - Start **Apache**
    - Start **MySQL**
-5. **Buka aplikasi di browser**
+6. **Buka aplikasi di browser**
    ketik di browser: localhost/uts_60324061
-   
-   ## Struktur Folder
-   uts_60324061/
-├── config/
-│   └── database.php
-├── database/
-│   └── uts_perpustakaan_60324061.sql
-├── index.php            # Halaman daftar kategori (READ)
-├── create.php           # Halaman tambah kategori (CREATE)
-├── edit.php             # Halaman edit kategori (UPDATE)
-├── delete.php           # Proses hapus kategori (DELETE)
-└── README.md            # Dokumentasi aplikasi
+
+## Struktur Folder
+<img width="231" height="286" alt="image" src="https://github.com/user-attachments/assets/c94eaa37-4c1e-4d0f-9b9e-95f8b2cc0d31" />
+
