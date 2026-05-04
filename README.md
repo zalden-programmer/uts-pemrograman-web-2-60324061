@@ -40,4 +40,5 @@ Pastikan sudah terinstall:
 
 ## Struktur Folder
 <img width="231" height="286" alt="image" src="https://github.com/user-attachments/assets/c94eaa37-4c1e-4d0f-9b9e-95f8b2cc0d31" />
-
+## link repositori
+https://github.com/zalden-programmer?tab=repositories
